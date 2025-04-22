@@ -2,5 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+C5N | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png |
+https://www.youtube.com/@c5n
+
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
