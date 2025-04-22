@@ -1,9 +1,26 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+TN | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tn.png | TN
+https://www.youtube.com/@todonoticias/live
 
-C5N | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png |
+LN+ | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/lanacionmas.png | LN+
+https://www.youtube.com/@lanacion/live
+
+El Trece | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/eltrece.png | ELTRECE
+https://www.youtube.com/@eltrece/live
+
+America | Noticias | https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png | AMERICA
+https://www.youtube.com/@americaenvivo/live
+
+C5N | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/c5n.png | C5N
 https://www.youtube.com/@c5n
 
-Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
+A24 | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/a24nuevo.png | A24
+https://www.youtube.com/@A24com/live
+
+Cronica | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/cronica.png | CRONICA
+https://www.youtube.com/@cronicatv/live
+
+TVP | Noticias | https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Argentina/tvpublica.png | TVP
+https://www.youtube.com/@TVPublicaArgentina
